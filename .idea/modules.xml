@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/bigdata.iml" filepath="$PROJECT_DIR$/bigdata.iml" />
+      <module fileurl="file://$PROJECT_DIR$/csw-project-ct/csw-project-ct.iml" filepath="$PROJECT_DIR$/csw-project-ct/csw-project-ct.iml" />
+      <module fileurl="file://$PROJECT_DIR$/csw-project-ct/ct-analysis/ct-analysis.iml" filepath="$PROJECT_DIR$/csw-project-ct/ct-analysis/ct-analysis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/csw-project-ct/ct-common/ct-common.iml" filepath="$PROJECT_DIR$/csw-project-ct/ct-common/ct-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/csw-project-ct/ct-consumer/ct-consumer.iml" filepath="$PROJECT_DIR$/csw-project-ct/ct-consumer/ct-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/csw-project-ct/ct-producer/ct-producer.iml" filepath="$PROJECT_DIR$/csw-project-ct/ct-producer/ct-producer.iml" />
+    </modules>
+  </component>
+</project>

@@ -10,14 +10,16 @@
         <module name="ct-analysis" />
         <module name="ct-consumer" />
         <module name="ct-common" />
+        <module name="ct-cache" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8">
-      <module name="csw-project-ct" target="8" />
-      <module name="ct-analysis" target="8" />
-      <module name="ct-common" target="8" />
-      <module name="ct-consumer" target="8" />
-      <module name="ct-producer" target="8" />
+      <module name="csw-project-ct" target="1.5" />
+      <module name="ct-analysis" target="1.5" />
+      <module name="ct-cache" target="1.5" />
+      <module name="ct-common" target="6" />
+      <module name="ct-consumer" target="1.5" />
+      <module name="ct-producer" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
